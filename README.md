@@ -1,7 +1,7 @@
 # Dojo-Survey-CodingDojo
 ### Python - Flask - Fundamentls
 ### Install packages
-* ```pipenv install -r requirements.txt```
+* ```pipenv install flask```
 * ```pipenv shell```
 * ```pipenv server.py```
 ### project structure flask
